@@ -1,0 +1,15 @@
+/Users/nicholasgliserman/Dropbox/SLCC/2021_Spring/Advanced_Programming/VisualStudio/ConsoleApplication/SnakeDraft/bin/Debug/net5.0/SnakeApp.deps.json
+/Users/nicholasgliserman/Dropbox/SLCC/2021_Spring/Advanced_Programming/VisualStudio/ConsoleApplication/SnakeDraft/bin/Debug/net5.0/SnakeApp.runtimeconfig.json
+/Users/nicholasgliserman/Dropbox/SLCC/2021_Spring/Advanced_Programming/VisualStudio/ConsoleApplication/SnakeDraft/bin/Debug/net5.0/SnakeApp.runtimeconfig.dev.json
+/Users/nicholasgliserman/Dropbox/SLCC/2021_Spring/Advanced_Programming/VisualStudio/ConsoleApplication/SnakeDraft/bin/Debug/net5.0/SnakeApp.dll
+/Users/nicholasgliserman/Dropbox/SLCC/2021_Spring/Advanced_Programming/VisualStudio/ConsoleApplication/SnakeDraft/bin/Debug/net5.0/ref/SnakeApp.dll
+/Users/nicholasgliserman/Dropbox/SLCC/2021_Spring/Advanced_Programming/VisualStudio/ConsoleApplication/SnakeDraft/bin/Debug/net5.0/SnakeApp.pdb
+/Users/nicholasgliserman/Dropbox/SLCC/2021_Spring/Advanced_Programming/VisualStudio/ConsoleApplication/SnakeDraft/obj/Debug/net5.0/SnakeApp.GeneratedMSBuildEditorConfig.editorconfig
+/Users/nicholasgliserman/Dropbox/SLCC/2021_Spring/Advanced_Programming/VisualStudio/ConsoleApplication/SnakeDraft/obj/Debug/net5.0/SnakeApp.AssemblyInfoInputs.cache
+/Users/nicholasgliserman/Dropbox/SLCC/2021_Spring/Advanced_Programming/VisualStudio/ConsoleApplication/SnakeDraft/obj/Debug/net5.0/SnakeApp.AssemblyInfo.cs
+/Users/nicholasgliserman/Dropbox/SLCC/2021_Spring/Advanced_Programming/VisualStudio/ConsoleApplication/SnakeDraft/obj/Debug/net5.0/SnakeApp.csproj.CoreCompileInputs.cache
+/Users/nicholasgliserman/Dropbox/SLCC/2021_Spring/Advanced_Programming/VisualStudio/ConsoleApplication/SnakeDraft/obj/Debug/net5.0/SnakeApp.dll
+/Users/nicholasgliserman/Dropbox/SLCC/2021_Spring/Advanced_Programming/VisualStudio/ConsoleApplication/SnakeDraft/obj/Debug/net5.0/ref/SnakeApp.dll
+/Users/nicholasgliserman/Dropbox/SLCC/2021_Spring/Advanced_Programming/VisualStudio/ConsoleApplication/SnakeDraft/obj/Debug/net5.0/SnakeApp.pdb
+/Users/nicholasgliserman/Dropbox/SLCC/2021_Spring/Advanced_Programming/VisualStudio/ConsoleApplication/SnakeDraft/obj/Debug/net5.0/SnakeApp.genruntimeconfig.cache
+/Users/nicholasgliserman/Dropbox/SLCC/2021_Spring/Advanced_Programming/VisualStudio/ConsoleApplication/SnakeDraft/obj/Debug/net5.0/SnakeApp.csproj.AssemblyReference.cache

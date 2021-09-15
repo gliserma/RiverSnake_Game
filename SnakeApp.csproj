@@ -1,0 +1,18 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>net5.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Folder Include="Background\" />
+    <Folder Include="Background\Terrain\" />
+    <Folder Include="Background\BoxTypes\" />
+    <Folder Include="Movement\" />
+    <Folder Include="GameObjects\" />
+    <Folder Include="GameObjects\Structures\" />
+    <Folder Include="Movement\MovementController\" />
+    <Folder Include="GameManagement\" />
+  </ItemGroup>
+</Project>
